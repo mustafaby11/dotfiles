@@ -32,6 +32,9 @@ packages=(
     'proton-cachyos'
     'vscodium'
     'yt-dlp'
+    'appimagelauncher'
+    'kdiskmark'
+    'plasma-workspace-wallpapers'
 )
 
 # --- SCRIPT LOGIC (No need to edit below this line) ---
