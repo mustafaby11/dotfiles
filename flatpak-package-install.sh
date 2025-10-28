@@ -25,7 +25,6 @@ fi
 
 # 2. Install the packages from the list
 echo "📦 Installing specified packages..."
-# The --needed flag prevents reinstalling packages that are already up-to-date.
 flatpak install -y flathub "${packages[@]}"
 
 # 3. Final message
