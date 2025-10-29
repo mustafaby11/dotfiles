@@ -35,6 +35,7 @@ packages=(
     'appimagelauncher'
     'kdiskmark'
     'plasma-workspace-wallpapers'
+    'bleachbit'
 )
 
 # --- SCRIPT LOGIC (No need to edit below this line) ---
