@@ -36,6 +36,7 @@ packages=(
     'kdiskmark'
     'plasma-workspace-wallpapers'
     'bleachbit'
+    'openrgb'
 )
 
 # --- SCRIPT LOGIC (No need to edit below this line) ---
