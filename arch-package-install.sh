@@ -37,6 +37,8 @@ packages=(
     'plasma-workspace-wallpapers'
     'bleachbit'
     'openrgb'
+    'nodejs'
+    'npm'
 )
 
 # --- SCRIPT LOGIC (No need to edit below this line) ---
