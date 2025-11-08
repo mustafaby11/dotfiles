@@ -39,6 +39,7 @@ packages=(
     'openrgb'
     'nodejs'
     'npm'
+    'scrcpy'
 )
 
 # --- SCRIPT LOGIC (No need to edit below this line) ---
