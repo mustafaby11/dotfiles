@@ -40,6 +40,8 @@ packages=(
     'nodejs'
     'npm'
     'scrcpy'
+    'obsidian'
+    'metadata-cleaner'
 )
 
 # --- SCRIPT LOGIC (No need to edit below this line) ---
