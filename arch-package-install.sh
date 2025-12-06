@@ -42,6 +42,7 @@ packages=(
     'scrcpy'
     'obsidian'
     'metadata-cleaner'
+    'thunderbird'
 )
 
 # --- SCRIPT LOGIC (No need to edit below this line) ---
