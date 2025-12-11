@@ -43,6 +43,7 @@ packages=(
     'obsidian'
     'metadata-cleaner'
     'thunderbird'
+    'akregator'
 )
 
 # --- SCRIPT LOGIC (No need to edit below this line) ---
