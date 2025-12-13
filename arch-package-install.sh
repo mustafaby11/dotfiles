@@ -43,6 +43,7 @@ packages=(
     'obsidian'
     'metadata-cleaner'
     'thunderbird'
+    'proton-vpn-gtk-app'
 )
 
 # --- SCRIPT LOGIC (No need to edit below this line) ---
