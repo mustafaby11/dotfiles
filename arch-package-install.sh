@@ -44,6 +44,12 @@ packages=(
     'metadata-cleaner'
     'thunderbird'
     'proton-vpn-gtk-app'
+    'brave-bin'
+    'antigravity-bin'
+    'wine'
+    'wine-gecko'
+    'wine-mono'
+    'winetricks'
 )
 
 # --- SCRIPT LOGIC (No need to edit below this line) ---
