@@ -45,11 +45,12 @@ packages=(
     'thunderbird'
     'proton-vpn-gtk-app'
     'brave-bin'
-    'antigravity-bin'
+    'antigravity'
     'wine'
     'wine-gecko'
     'wine-mono'
     'winetricks'
+    'dnscrypt-proxy'
 )
 
 # --- SCRIPT LOGIC (No need to edit below this line) ---
