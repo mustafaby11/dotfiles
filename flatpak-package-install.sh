@@ -5,12 +5,9 @@
 # ##################################################################
 #
 packages=(
-    'io.gitlab.adhami3310.Converter'
     'com.github.PintaProject.Pinta'
     'com.usebottles.bottles'
     'com.github.tchx84.Flatseal'
-    'org.prismlauncher.PrismLauncher'
-    'com.spotify.Client'
     'net.davidotek.pupgui2'
 )
 
