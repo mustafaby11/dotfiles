@@ -51,6 +51,11 @@ packages=(
     'wine-mono'
     'winetricks'
     'dnscrypt-proxy'
+    'easyeffects'
+    'identity'
+    'lsp-plugins'
+    'ttf-jetbrains-mono'
+    'ttf-jetbrains-mono-nerd'
 )
 
 # --- SCRIPT LOGIC (No need to edit below this line) ---
