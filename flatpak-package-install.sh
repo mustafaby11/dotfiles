@@ -9,6 +9,7 @@ packages=(
     'com.usebottles.bottles'
     'com.github.tchx84.Flatseal'
     'net.davidotek.pupgui2'
+    'net.supertuxkart.SuperTuxKart'
 )
 
 # --- SCRIPT LOGIC (No need to edit below this line) ---
