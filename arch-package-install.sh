@@ -56,6 +56,9 @@ packages=(
     'lsp-plugins'
     'ttf-jetbrains-mono'
     'ttf-jetbrains-mono-nerd'
+    'tesseract'
+    'tesseract-data-eng'
+    'tesseract-data-tur'
 )
 
 # --- SCRIPT LOGIC (No need to edit below this line) ---
