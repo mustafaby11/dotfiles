@@ -45,6 +45,7 @@ packages=(
     'tesseract-data-eng'
     'tesseract-data-tur'
     'libnetfilter_queue'
+    'elyprismlauncher-bin'
 )
 
 # --- SCRIPT LOGIC (No need to edit below this line) ---
