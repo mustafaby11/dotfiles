@@ -37,8 +37,6 @@ packages=(
     'thunderbird'
     'antigravity'
     'dnscrypt-proxy'
-    'easyeffects'
-    'lsp-plugins'
     'ttf-jetbrains-mono'
     'ttf-jetbrains-mono-nerd'
     'tesseract'
