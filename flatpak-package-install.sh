@@ -6,9 +6,7 @@
 #
 packages=(
     'com.github.PintaProject.Pinta'
-    'com.usebottles.bottles'
     'com.github.tchx84.Flatseal'
-    'net.davidotek.pupgui2'
     'net.supertuxkart.SuperTuxKart'
 )
 
