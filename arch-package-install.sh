@@ -26,7 +26,7 @@ packages=(
     'dnsmasq'
     'obs-studio'
     'qbittorrent'
-    'vscodium'
+    'visual-studio-code-bin'
     'yt-dlp'
     'appimagelauncher'
     'bleachbit'
