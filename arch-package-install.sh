@@ -63,7 +63,7 @@ paru -Syu --noconfirm
 # 3. Install the packages from the list
 echo "📦 Installing specified packages..."
 # The --needed flag prevents reinstalling packages that are already up-to-date.
-paru -S --needed "${packages[@]}"
+paru -S --needed --noconfirm "${packages[@]}"
 
 # 4. Final message
 echo ""
