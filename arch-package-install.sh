@@ -46,6 +46,11 @@ packages=(
     'elyprismlauncher-bin'
     'vesktop'
     'proton-vpn-gtk-app'
+    'heroic-games-launcher-bin'
+    'helium-browser-bin'
+    'krita'
+    'upscayl-bin'
+    'switcheroo'
 )
 
 # --- SCRIPT LOGIC (No need to edit below this line) ---
