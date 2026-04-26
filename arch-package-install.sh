@@ -53,6 +53,9 @@ packages=(
     'krita'
     'upscayl-bin'
     'switcheroo'
+    'steam'
+    'protonup-qt'
+    'gnome-software'
 )
 
 # --- SCRIPT LOGIC (No need to edit below this line) ---
