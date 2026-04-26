@@ -47,6 +47,8 @@ packages=(
     'vesktop'
     'proton-vpn-gtk-app'
     'heroic-games-launcher-bin'
+    'goverlay'
+    'mangohud'
     'helium-browser-bin'
     'krita'
     'upscayl-bin'
