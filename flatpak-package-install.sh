@@ -7,6 +7,7 @@
 packages=(
     'com.github.PintaProject.Pinta'
     'com.github.tchx84.Flatseal'
+    'com.usebottles.bottles'
     'net.supertuxkart.SuperTuxKart'
 )
 
