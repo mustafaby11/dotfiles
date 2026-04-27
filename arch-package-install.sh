@@ -50,7 +50,7 @@ packages=(
     'goverlay'
     'mangohud'
     'helium-browser-bin'
-    'krita'
+    'gimp'
     'upscayl-bin'
     'switcheroo'
     'steam'
