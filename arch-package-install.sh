@@ -56,6 +56,7 @@ packages=(
     'steam'
     'protonup-qt'
     'gnome-software'
+    'waydroid'
 )
 
 # --- SCRIPT LOGIC (No need to edit below this line) ---
