@@ -57,6 +57,7 @@ packages=(
     'protonup-qt'
     'gnome-software'
     'waydroid'
+    'iriunwebcam-bin'
 )
 
 # --- SCRIPT LOGIC (No need to edit below this line) ---
